@@ -1,5 +1,5 @@
 # Introduction
-This is an React project example that implements the [Next.js](https://nextjs.org/learn) framework.
+This is a React project example that implements the [Next.js](https://nextjs.org/learn) framework.
 
 # Run
 ```
