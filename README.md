@@ -7,7 +7,8 @@ npm install
 npm run dev
 ```
 
-# Automatic Deploy configured on Vercel plataform (per branch)
+# Automatic Deploy 
 
-https://nextjs-blog-git-master.marcusvieira88.vercel.app/
-https://nextjs-blog-git-dev.marcusvieira88.vercel.app/
+Deploy Configured on Vercel plataform (per branch):
+ - https://nextjs-blog-git-master.marcusvieira88.vercel.app/
+ - https://nextjs-blog-git-dev.marcusvieira88.vercel.app/
