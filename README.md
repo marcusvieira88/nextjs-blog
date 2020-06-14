@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Introduction
+This is an React project example that implements the [Next.js](https://nextjs.org/learn) framework.
